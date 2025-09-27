@@ -30,7 +30,7 @@ Aim:
 
  1. Make a clone of the repository:
    bash
-   git clone https://github.com/YourUsername/CodeAlpha_StockPortfolioTracker.git
+   git clone https://github.com/umedshaikh/CodeAlpha_StockPortfolioTracker
    
 This is a simple, but effective project to track investments.
 
